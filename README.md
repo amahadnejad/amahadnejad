@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Amirhosein Ahadnezhad
+👀 I’m interested in Python Development
+🌱 I’m currently learning Django
+📫 How to reach me << amahadnezhad@gmail.com >>
