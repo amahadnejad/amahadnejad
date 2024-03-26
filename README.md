@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Amirhosein Ahadnezhad
 - 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning DRF
 - 📫 How to reach me << amahadnezhad@gmail.com >>
