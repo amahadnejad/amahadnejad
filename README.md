@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=amahadnezhad&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amahadnezhad&theme=radical&hide_border=false)<br/><br/>
