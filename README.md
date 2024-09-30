@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Amirhosein Ahadnezhad
+- 👋 Hi, I’m Amirhosein Ahadnejad
 - 👀 I’m interested in Python Development
 - 🌱 I’m currently learning Django
-- 📫 How to reach me << amahadnezhad@gmail.com >>
 
 
 # 💻 Tech Stack:
