@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Amirhossein Ahadnejad<br>👀 I’m interested in Python Development<br>🌱 I’m currently learning Django
+👋 Hi, I’m Amirhossein Ahadnejad<br>👀 I’m interested in Python Development<br>🌱 I’m currently learning Advanced Django
 
 
 ## 🌐 Socials:
