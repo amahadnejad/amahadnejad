@@ -11,6 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=amahadnejad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amahadnejad&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amahadnejad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amahadnejad&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
